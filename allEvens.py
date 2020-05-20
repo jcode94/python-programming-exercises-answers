@@ -32,6 +32,8 @@
 #         values.append(s)
 # print(",".join(values))
 
+# Note: Explicit conditionals
+
 # Revision:
 
 values = []
