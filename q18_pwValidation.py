@@ -96,5 +96,5 @@ for p in items:
     else:
         pass
     value.append(p)
-    
+
 print(','.join(value))
